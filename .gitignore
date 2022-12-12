@@ -1,0 +1,11 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+
+/.devcontainer/
+/interfaces/
+/scripts/
+.pytest_cache/
